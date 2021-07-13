@@ -3,11 +3,11 @@
 
  ## Abstract
 
-    Nowadays most of scooter riders navigate by cellphones and place it on the smart phone holder, but it is easy for the driver to distract causing an accident. 
-    Due to the reason, our research design a smart helmet to display navigation instruction in rider’s sight and improve driving safety. 
-    With the concept of IoT, our research connect android App with google data base to access navigation information. After getting the information, App sends it to Arduino nano. 
-    As Arduino nano receive the information, it will display it at the OLED module. 
-    In addition, alcohol sensing and accident sensing are added to prevent drunk driving and delayed first aid which establishs a more complete security.
+Nowadays most of scooter riders navigate by cellphones and place it on the smart phone holder, but it is easy for the driver to distract causing an accident.
+Due to the reason, our research design a smart helmet to display navigation instruction in rider’s sight and improve driving safety. 
+With the concept of IoT, our research connect android App with google data base to access navigation information. After getting the information, App sends it to Arduino nano. 
+As Arduino nano receive the information, it will display it at the OLED module. 
+In addition, alcohol sensing and accident sensing are added to prevent drunk driving and delayed first aid which establishs a more complete security.
 
 ## Procedure
 
